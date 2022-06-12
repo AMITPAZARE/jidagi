@@ -1,0 +1,165 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Murecho&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Murecho&family=Share&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Murecho&family=Share&family=Ubuntu:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&family=Mulish:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&family=Mulish:wght@300&family=Varela+Round&display=swap');
+
+body{
+    background-color:rgb(174, 197, 209)
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    height: 85px;
+    background-color:rgba(53, 36, 36, 0.301);
+    color: white;
+    font-weight: bolder; 
+
+
+}
+nav ul li{
+    margin: 12px;
+    padding: 34px;
+}
+.brand{
+    margin: 40px;
+    padding: 14px;
+    width: 70%;
+    font-size: 2.4rem;
+    font-family: 'Ubuntu', sans-serif;
+    letter-spacing: 0.3rem;
+    font-stretch: expanded;
+    text-shadow: 0 0 1px rgb(0, 0, 0);
+
+    
+    
+
+}
+.br{margin: 10px;
+    padding: 34px;
+    font-size: 1.2rem;
+    font-family: 'Ubuntu', sans-serif;
+    letter-spacing: 0.1rem;
+    text-shadow: 0 0 1px rgb(0, 0, 0);
+    filter: brightness( 120%);
+
+}
+.hr{
+    margin: 10px;
+    padding: 34px;
+    font-size: 1.2rem;font-family: 'Ubuntu', sans-serif;
+    letter-spacing: 0.1rem;
+    text-shadow: 0 0 1px rgb(0, 0, 0);
+    filter: brightness( 120%);
+}
+.cr{
+    margin: 10px;
+    padding: 34px;
+    font-size: 1.2rem;font-family: 'Ubuntu', sans-serif;
+    letter-spacing: 0.1rem;
+    text-shadow: 0 0 1px rgb(0, 0, 0);
+    filter: brightness( 120%);
+}
+.nr{
+    margin: 10px;
+    padding: 34px;
+    font-size: 1.2rem;font-family: 'Ubuntu', sans-serif;
+    letter-spacing: 0.1rem;
+    text-shadow: 0 0 1px rgb(0, 0, 0);
+    filter: brightness( 120%);
+    color:#62e4c8;
+    
+
+}
+.container{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    min-height: 91vh;
+    color:white;
+    font-weight: bolder; 
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 2rem;
+    
+}
+.jpg{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    filter: brightness(70%);
+   
+
+}
+.amit{
+    letter-spacing: 0.3rem;
+    margin: 15px;
+    font-family: 'Mulish', sans-serif;
+    text-shadow: 0 0 5px rgb(0, 0, 0);
+    filter: brightness( 120%);
+}
+.ankit{
+    font-family: 'Cairo', sans-serif;
+    letter-spacing: 0.4rem;
+    font-weight: bolder; 
+    font-size: 4rem;
+    text-shadow: 0 0 10px rgb(0, 0, 0);
+    filter: brightness( 120%);
+
+}
+.badal{
+    text-shadow: 0 0 5px rgb(0, 0, 0);
+    font-family: 'Varela Round', sans-serif;
+    letter-spacing: 0.2rem;
+    font-size: 1.5rem;
+    filter: brightness( 120%);
+}
+
+.ankitDILHI {
+    color: aqua;
+}
+div h2 span {
+    font-size: 5rem;
+}
+.ajji{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.pappa{
+    margin: 15px;
+    padding: 8px;
+    min-width: 40%;
+    letter-spacing: 0.1rem;
+    font-size: 1.3rem;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #62e4c8;
+    color: white;
+    border-radius:5px;
+    cursor:pointer;
+}
+.aai{
+    margin: 15px;
+    padding: 8px;
+    min-width: 40%;
+    letter-spacing: 0.1rem;
+    font-size: 1.3rem;
+    font-family: 'Ubuntu', sans-serif;
+    border-radius:5px;
+    cursor: pointer;
+    
+}
